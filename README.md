@@ -1,2 +1,4 @@
-# CNN-Two-phase
+# 3DCNN-2PhaseFlow
 Prediction of Two-phase Flow Properties for Digital Sandstones Using 3D Convolutional Neural Networks
+
+# Instructions
